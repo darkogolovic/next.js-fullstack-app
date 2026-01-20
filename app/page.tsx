@@ -21,6 +21,7 @@ const page = () => {
         ))}
       </ul>
     </div>
+    
    </section>
    
   )
